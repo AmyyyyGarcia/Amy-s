@@ -13,3 +13,4 @@ Welcome to my GitHub profile. I'm passionate about software developent, computer
 
 
 
+<img width="265" alt="image" src="https://github.com/user-attachments/assets/bc6370a7-6d6c-4ebb-ba35-5d74e3b9273e" />
